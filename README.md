@@ -4,7 +4,7 @@ This is a responsive personal portfolio website created as a project for the Hum
 
 ## Project Demonstration 
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[See video here](https://youtu.be/2r87zZeWfbM)
 
 ---
 
